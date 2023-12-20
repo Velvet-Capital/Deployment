@@ -97,17 +97,17 @@ $ npx hardhat coverage
 To deploy the smart contracts we use the command(Please complete the data in deploymentInputs):
 
 ```
-$ npx hardhat run deployment-script/BSC/deployment/deployBsc.ts
+$ npx hardhat run BSC/deployment/deployBsc.ts
 ```
 
 To initialise the individual contracts we need to call different tasks:
 
 ```
-npx hardhat run deployment-script/BSC/deployment/initExternalSwapHandlers.ts --network 
+npx hardhat run BSC/deployment/initExternalSwapHandlers.ts --network 
 
-npx hardhat run deployment-script/BSC/deployment/initPriceOracle.ts --network 
+npx hardhat run BSC/deployment/initPriceOracle.ts --network 
 
-npx hardhat run deployment-script/BSC/deployment/initTokenRegistry.ts --network 
+npx hardhat run BSC/deployment/initTokenRegistry.ts --network 
 
-npx hardhat run deployment-script/BSC/deployment/initLpHandlers.ts --network 
+npx hardhat run BSC/deployment/initLpHandlers.ts --network 
 ```
