@@ -1,0 +1,16 @@
+[
+    {"token": "beefy_pancake_CAKE-BNB", "address":"0xb26642B6690E4c4c9A6dAd6115ac149c700C7dfE" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_CAKE-USDT", "address":"0x969b3fb717C432735088e9e7A7F261F37fb2e526" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_CAKE-BUSD", "address":"0x1542885D6EeD4EE3AC1a110d3f159003a0774101" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_DOGE-BNB", "address":"0x3b3bc8AE6dcAcCeaaC3C19E196ebD3341Cfe9c4e" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_BTCB-BUSD", "address":"0x40D21bCd71B0Be8864ff3Dd62373CFFA4E151d6F" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_UNI-BNB", "address":"0xb3127Fe584E0A522857D1dAfb8ef0b8CE7E9A9c2" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_XVS-BNB", "address":"0xa2f05EA4Af928BA34d66E6f69343a6703744Caba" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_TWT-BNB", "address":"0x9151B2E9ad4B4222d67b8467BBcf1f37597b9E7B" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_USDT-BNB", "address":"0x8d98855595E7971abE44bAdf1574fd126B286de4" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_BNB-BUSD", "address":"0xAd61143796D90FD5A61d89D63a546C7dB0a70475" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_ETH-BNB", "address":"0x0eb78598851D08218d54fCe965ee2bf29C288fac" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_BNB-BTCB", "address":"0xafE4f29578FbfE7Be32B836CBEb81daB6574cC70" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_DAI-BUSD", "address":"0x6eb020663898c72F8E25958F5f7bcDC732279201" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false},
+    {"token": "beefy_pancake_GMT-USDC", "address":"0xCc2ba0401799857e4e14bFEF6572f46fD5D0Ac23" , "handler":"BeefyLPHandler","rewardToken":"0x0000000000000000000000000000000000000000","primary": false}
+  ]

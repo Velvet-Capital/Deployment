@@ -1,0 +1,8 @@
+[{"token": "oBNB", "address":"0x34878F6a484005AA90E7188a546Ea9E52b538F6f" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oETH", "address":"0xaA1b1E1f251610aE10E4D553b05C662e60992EEd" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oBTCB", "address":"0x5fce5D208DC325ff602c77497dC18F8EAdac8ADA" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oBUSD", "address":"0x0096B6B49D13b347033438c4a699df3Afd9d2f96" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oUSDT", "address":"0xdBFd516D42743CA3f1C555311F7846095D85F6Fd" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oUSDC", "address":"0x91B66a9Ef4f4CAD7F8AF942855C37Dd53520f151" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oCAKE", "address":"0x3353f5bcfD7E4b146F2eD8F1e8D875733Cd754a7" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false},
+{"token": "oDOT", "address":"0x92D106c39aC068EB113B3Ecb3273B23Cd19e6e26" , "handler":"ApeSwapLendingHandler","rewardToken":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95","primary": false}]
